@@ -2,9 +2,8 @@
 
 > **Objective:** create a simple blinking LED with a one second delay. 
 
-![img](img/Pinout_Diagram.png)
-![LED pin](/img/LED-pinout.png)
-![breadboard](/img/breadboard.png)
+## Output 
+![gif](/img/blinkingLED.gif)
 
 ## Components Used
 1. Arduino Uno
@@ -35,8 +34,11 @@
 
 4. Connect the other end of **resistor** inot pin 13 of the Arduino UNO board
 
-## Output 
-![gif](/img/blinkingLED.gif)
+## Components and Layouts
+![img](img/Pinout_Diagram.png)
+![LED pin](/img/LED-pinout.png)
+![breadboard](/img/breadboard.png)
+
 
 ## Reference 
 [Breadboard image](https://courses.grainger.illinois.edu/ece110/sp2022/content/labs/Experiments/BB_HowTo.pdf) I used
